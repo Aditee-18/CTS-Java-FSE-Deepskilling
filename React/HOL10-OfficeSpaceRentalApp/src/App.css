@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.App img {
+  margin: 20px 0;
+  border-radius: 8px;
+}
+
+.App table {
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+.App th {
+  background-color: #333;
+  color: white;
+  padding: 12px;
+}
+
+.App td {
+  padding: 10px;
+}
