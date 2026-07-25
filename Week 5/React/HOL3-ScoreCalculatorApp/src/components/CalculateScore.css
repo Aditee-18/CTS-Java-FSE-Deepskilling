@@ -1,0 +1,12 @@
+.formatstyle {
+  background-color: lightgrey;
+  width: 400px;
+  padding: 20px;
+  border: 1px solid black;
+  margin: 10px;
+}
+
+.Name, .School, .Total, .Score {
+  margin-top: 10px;
+  color: black;
+}

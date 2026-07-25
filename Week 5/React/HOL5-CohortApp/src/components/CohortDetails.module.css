@@ -1,0 +1,13 @@
+.box {
+  border: 2px solid blue;
+  padding: 15px;
+  margin: 10px;
+  width: 300px;
+  border-radius: 5px;
+}
+
+.title {
+  color: darkblue;
+  font-size: 18px;
+  font-weight: bold;
+}
